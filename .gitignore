@@ -1,0 +1,6 @@
+.vscode
+/build
+/img
+/test
+detection*
+vc*
